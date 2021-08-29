@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "STA308_Assignment2"
 author: "Shreya Bhootda"
 date: "8/14/2021"
 output: pdf_document
